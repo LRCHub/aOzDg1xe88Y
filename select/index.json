@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "数%のハッピーエンド",
+  "base_artist": "yutori",
+  "createdAt": "2025-12-17T15:34:25.669016Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "数%のハッピーエンド",
+      "artist": "yutori",
+      "has_synced": false,
+      "path": "select/pl_01_数_のハッピーエンド_yutori.txt"
+    }
+  ]
+}
